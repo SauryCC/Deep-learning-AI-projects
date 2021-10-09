@@ -1,8 +1,11 @@
-
-
-
-
+Final report: Check the video link below!!!
 https://drive.google.com/file/d/1JD3_SyqOZ6aHcZo_R1VX7z20OCK5kNNr/view
+
+![GitHub Logo](https://github.com/SauryCC/Deep-learning-AI-projects/blob/main/Extreme%20Low%20Resolution%20Car%20License%20Plate%20Recognizer/video%20page.png)
+
+
+
+
 
 
 Vehicles have proven to be one of the most useful tools in daily lives. License plates are
