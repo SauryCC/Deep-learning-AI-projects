@@ -1,10 +1,12 @@
+Final report: Check the video link below!!!
 
-
-
+![GitHub Logo](https://github.com/SauryCC/Deep-learning-AI-projects/blob/main/Extreme%20Low%20Resolution%20Car%20License%20Plate%20Recognizer/video%20page.png)
 
 https://drive.google.com/file/d/1JD3_SyqOZ6aHcZo_R1VX7z20OCK5kNNr/view
 
 
+
+Introduction
 Vehicles have proven to be one of the most useful tools in daily lives. License plates are
 used to identify unique vehicles in the legal system. As camera technologies develop, it has
 shown great potential for Automatic License-Plate Recognition (ALPR) to replace manual
